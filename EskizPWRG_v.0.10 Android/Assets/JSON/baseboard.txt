@@ -1,0 +1,46 @@
+{
+    "_id": "5f3cb6c909ffba001d340e1b",
+    "pack_dimensions": {},
+    "custom_properties": {
+        "material": "pvc",
+        "color": [
+            "5eea0f85808b0e00129c8ced",
+            "5eea0f85808b0e00129c8ce8"
+        ],
+        "manufacturer_country": "Россия",
+        "manufacturer_company": "Tarkett",
+        "collection": "SD60",
+        "vendor_code": "217",
+        "corner_in_price": 35,
+        "corner_out_price": 35,
+        "plug_left_price": 22.5,
+        "plug_right_price": 22.5,
+        "connector_price": 35,
+        "length": 250,
+        "height": 6
+    },
+    "enabled": true,
+    "width_list": [],
+    "type": "baseboard",
+    "units": "rub_apiece",
+    "shininess_scale": 0.5,
+    "normal_scale": 0.5,
+    "roughness_scale": 0.5,
+    "pack_area": 1,
+    "tex": {
+        "tex_diffuse": "tex_diffuse.jpeg"
+    },
+    "texture_dimensions": {
+        "x": 15,
+        "y": 6
+    },
+    "category": "5eea11dbe7afdd33559bbf94",
+    "cost": 175,
+    "preview_icon": "preview.jpeg",
+    "name": "Tarkett SD60 217",
+    "metadata": {},
+    "createdAt": "2020-08-19T05:21:13.325Z",
+    "updatedAt": "2020-08-19T05:21:13.330Z",
+    "__v": 0,
+    "id": "5f3cb6c909ffba001d340e1b"
+}

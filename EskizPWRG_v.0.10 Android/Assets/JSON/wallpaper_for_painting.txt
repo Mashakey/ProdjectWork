@@ -1,0 +1,46 @@
+{
+    "_id": "5fa0c8f6e278c800198b1f63",
+    "custom_properties": {
+        "combine_with": "",
+        "color": [],
+        "vendor_code": "HC40000-01",
+        "manufacturer_company": "HomeColor",
+        "manufacturer_country": "Россия",
+        "collection": "",
+        "drawing_elements": "Фон",
+        "production_mode": "Вспененный винил",
+        "basis": "Флизелиновая",
+        "rapport": "0",
+        "style": "Современный"
+    },
+    "enabled": true,
+    "width_list": [],
+    "type": "wallpaper_for_painting",
+    "units": "rub_roll",
+    "shininess_scale": 0.5,
+    "normal_scale": 0.5,
+    "roughness_scale": 0.5,
+    "pack_area": 1,
+    "tex": {
+        "tex_diffuse": "tex_diffuse.jpeg",
+        "tex_normal": "",
+        "tex_roughness": ""
+    },
+    "texture_dimensions": {
+        "x": 1.5,
+        "y": 1
+    },
+    "pack_dimensions": {
+        "x": 1.06,
+        "y": 25
+    },
+    "category": "5eea11e0e7afdd33559bc3fe",
+    "cost": 1500,
+    "preview_icon": "preview.jpeg",
+    "name": " HC40000-01",
+    "metadata": {},
+    "createdAt": "2020-11-03T03:05:26.598Z",
+    "updatedAt": "2020-11-03T03:05:26.598Z",
+    "__v": 0,
+    "id": "5fa0c8f6e278c800198b1f63"
+}

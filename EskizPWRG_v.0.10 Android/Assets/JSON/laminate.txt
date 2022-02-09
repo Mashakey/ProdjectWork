@@ -1,0 +1,51 @@
+{
+    "_id": "5e53815a9daef500121c6a78",
+    "pack_dimensions": {},
+    "custom_properties": {
+        "chamfer": true,
+        "moisture_resistant": true,
+        "texture_dimensions": {},
+        "pack_dimensions": {},
+        "width_list": [],
+        "manufacturer_country": "Бельгия",
+        "manufacturer_company": "QUICK STEP",
+        "collection": "IMRESSIVE",
+        "board_length": 1380,
+        "board_width": 190,
+        "board_thickness": 8,
+        "count_items_per_pack": 7,
+        "processing_effect": "Глубокое тиснение в регистре",
+        "design_type": "Классическое дерево",
+        "class_num": 32,
+        "lock_type": "Uniclic",
+        "vendor_code": "Дуб дымчатый IM1993",
+        "color": [
+            "5eea0f85808b0e00129c8cea",
+            "5eea0f85808b0e00129c8ce8"
+        ]
+    },
+    "type": "laminate",
+    "units": "rub_m2",
+    "shininess_scale": 0.5,
+    "normal_scale": 0.5,
+    "roughness_scale": 0.5,
+    "pack_area": 1.835,
+    "tex": {
+        "tex_diffuse": "tex_diffuse.jpeg",
+        "tex_normal": "tex_normal.jpeg",
+        "tex_roughness": "tex_roughness.jpeg"
+    },
+    "texture_dimensions": {
+        "x": 0.95,
+        "y": 1.38
+    },
+    "category": "5e7dd5ef2927be001c7562ba",
+    "preview_icon": "preview.jpeg",
+    "name": "Дуб дымчатый IM1993",
+    "metadata": {},
+    "createdAt": "2020-02-24T07:55:06.651Z",
+    "updatedAt": "2020-02-24T07:55:06.651Z",
+    "__v": 0,
+    "cost": 1680,
+    "id": "5e53815a9daef500121c6a78"
+}

@@ -1,0 +1,54 @@
+{
+    "_id": "5e3909ba4c61400012db31e8",
+    "tex": {
+        "tex_diffuse": "tex_diffuse.jpeg",
+        "tex_normal": "5e3909ba4c61400012db31e8_tex_normal_site_5300x3200_PL71487-24_TbkaWiE-preview.jpg"
+    },
+    "pack_dimensions": {
+        "x": 1.06,
+        "y": 10.05
+    },
+    "width_list": [],
+    "shininess_scale": 0.5,
+    "normal_scale": 0.5,
+    "roughness_scale": 0.5,
+    "pack_area": 1,
+    "custom_properties": {
+        "combine_with": "PL71488-24",
+        "texture_dimensions": {
+            "x": 0,
+            "y": 0
+        },
+        "pack_dimensions": {
+            "x": 1,
+            "y": 10
+        },
+        "manufacturer_country": "Россия",
+        "production_mode": "Горячее тиснение",
+        "rapport": "32",
+        "manufacturer_company": "PALITRA",
+        "collection": "Positano",
+        "vendor_code": "PL71487-24",
+        "total_thickness": 3.7,
+        "basis": "Флизелиновая",
+        "color": [
+            "5eea0f85808b0e00129c8cea"
+        ]
+    },
+    "category": "5e85f9942927be001c7562c3",
+    "type": "wallpaper",
+    "units": "rub_roll",
+    "name": "Positano PL71487-24",
+    "metadata": {},
+    "createdAt": "2020-02-04T06:05:46.806Z",
+    "updatedAt": "2020-02-04T06:05:46.806Z",
+    "__v": 0,
+    "preview_icon": "preview.jpeg",
+    "texture_dimensions": {
+        "x": 1.28,
+        "y": 0.64
+    },
+    "cost": 1720,
+    "enabled": true,
+    "id": "5e3909ba4c61400012db31e8"
+}

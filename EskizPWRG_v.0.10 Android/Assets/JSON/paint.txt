@@ -1,0 +1,23 @@
+{
+    "_id": "5f5f1c7b09ffba001d340e20",
+    "tex": {},
+    "pack_dimensions": {},
+    "texture_dimensions": {},
+    "custom_properties": {
+        "color": [],
+        "tinting_color": "#ff0202",
+        "tinting_price": 100
+    },
+    "enabled": true,
+    "width_list": [],
+    "type": "paint",
+    "units": "rub_liter",
+    "category": "5eea11e0e7afdd33559bc401",
+    "cost": 500,
+    "name": "Красная",
+    "metadata": {},
+    "createdAt": "2020-09-14T07:32:11.821Z",
+    "updatedAt": "2020-09-14T07:32:11.821Z",
+    "__v": 0,
+    "id": "5f5f1c7b09ffba001d340e20"
+}

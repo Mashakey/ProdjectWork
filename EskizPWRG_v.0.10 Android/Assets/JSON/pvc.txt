@@ -1,0 +1,48 @@
+{
+    "_id": "5e841d6f89efe5001a680280",
+    "pack_dimensions": {},
+    "custom_properties": {
+        "chamfer": true,
+        "moisture_resistant": true,
+        "width_list": [],
+        "manufacturer_country": "Россия",
+        "manufacturer_company": "Tarkett",
+        "collection": "BLUES",
+        "board_thickness": 3,
+        "board_length": 0.457,
+        "board_width": 0.457,
+        "count_items_per_pack": 10,
+        "design_type": "Текстиль",
+        "packing_type": "Клеевой",
+        "protective_layer_thickness": 0.7,
+        "class_num": 34,
+        "vendor_code": "DINGO",
+        "color": [
+            "5eea0f85808b0e00129c8cea"
+        ]
+    },
+    "type": "pvc",
+    "units": "rub_m2",
+    "shininess_scale": 0.5,
+    "normal_scale": 0.5,
+    "roughness_scale": 0.5,
+    "pack_area": 2.09,
+    "tex": {
+        "tex_diffuse": "tex_diffuse.jpeg",
+        "tex_normal": "tex_normal.jpeg",
+        "tex_roughness": "tex_roughness.jpeg"
+    },
+    "texture_dimensions": {
+        "x": 0.9,
+        "y": 0.9
+    },
+    "category": "5e841ac12927be001c7562bf",
+    "cost": 980,
+    "preview_icon": "preview.jpeg",
+    "name": "DINGO",
+    "metadata": {},
+    "createdAt": "2020-04-01T04:49:51.855Z",
+    "updatedAt": "2020-04-01T04:49:51.855Z",
+    "__v": 0,
+    "id": "5e841d6f89efe5001a680280"
+}
